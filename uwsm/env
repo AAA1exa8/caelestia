@@ -7,3 +7,6 @@ export XCURSOR_SIZE='24'
 
 # ###### app2unit Integration ######
 export APP2UNIT_SLICES='a=app-graphical.slice b=background-graphical.slice s=session-graphical.slice'
+
+# ####### XDG specifications #######
+env = XDG_MENU_PREFIX,arch-
